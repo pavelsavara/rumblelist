@@ -1,0 +1,26 @@
+----
+Top 20 on 2021-03-03
+----
+<pre>
+jk.mega.DrussGT 3.1.6,https://www.dropbox.com/s/9n5fv4nmj1l4zn4/jk.mega.DrussGT_3.1.6.jar?dl=1
+aaa.r.ScalarR 0.005g.096,https://drive.google.com/uc?export=download&id=19c_56gN33juYmk3kelwYIMbSTk-Plmwx
+aaa.n.ScalarN 0.011d.166,https://drive.google.com/uc?export=download&id=1D0WzOyq80I57ZCsnJ3QhiH0uT4MD-49C
+voidious.Diamond 1.8.22,http://robocode-archive.strangeautomata.com/robots/voidious.Diamond_1.8.22.jar
+cb.fire.Firestarter 2.0f,https://www.dropbox.com/s/96qhyuh648ufuju/cb.fire.Firestarter_2.0f.jar?dl=1
+xander.cat.XanderCat 12.9,http://www.distantvisions.net/robocode/xander.cat.XanderCat_12.9.jar
+dsekercioglu.mega.Raven 3.57,https://www.dropbox.com/s/wvjodr5tbfqsnl8/dsekercioglu.mega.Raven_3.57.jar?dl=1
+lxx.Tomcat 3.68,https://github.com/aleksey-zhidkov/Tomcat/raw/develop/builds/lxx.Tomcat_3.68.jar
+aw.Gilgalad 1.99.5c,https://sites.google.com/site/awusa94/robocode/aw.Gilgalad_1.99.5c.jar?attredirects=0
+rsalesc.mega.Knight 0.6.28,https://drive.google.com/uc?export=download&id=1bn9HbZDEm-VGH6opcBW-6BEKrK2ILaW_
+dsekercioglu.mega.WhiteFang 2.8.1,https://www.dropbox.com/s/bftqx43ndhspxar/dsekercioglu.mega.WhiteFang_2.8.1.jar?dl=1
+cs.Nene 1.0.5,http://robocode-archive.strangeautomata.com/robots/cs.Nene_1.0.5.jar
+kc.serpent.WaveSerpent 2.11,http://robocode-archive.strangeautomata.com/robots/kc.serpent.WaveSerpent_2.11.jar
+gh.GresSuffurd 0.4.12,https://drive.google.com/uc?export=download&id=1CiRW5w1QbHYRYPf4HoiTgKF8017OBMDv
+jk.melee.Neuromancer 7.11a,https://www.dropbox.com/s/wzb5mx24lf7dtzw/jk.melee.Neuromancer_7.11a.jar?dl=1
+voidious.Dookious 1.573c,http://robocode-archive.strangeautomata.com/robots/voidious.Dookious_1.573c.jar
+davidalves.Phoenix 1.02,https://github.com/aleksey-zhidkov/rc-repo-mirror/raw/master/davidalves.Phoenix_1.02.jar
+rsalesc.roborio.Roborio 1.2.4,https://drive.google.com/uc?export=download&id=0B8rRBZwgQ8LqemdubWk2aVNuRHM
+cb.Domogled 1.2,https://www.dropbox.com/s/eyjie273jblyx53/cb.Domogled_1.2.jar?dl=1
+mue.Ascendant 1.2.27,http://mue.sonar-echo.de/robocode/mue.Ascendant_1.2.27.jar
+</pre>
+----
